@@ -1,4 +1,4 @@
-# Doggos Project (version 1.0)
+# Doggos Project (version 1.1)
 
 JavaScript project for the Frontend Masters course [Intro to Web Development](https://bthold.github.io/intro-to-web-dev-v2/).
 

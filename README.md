@@ -1,6 +1,6 @@
 # Doggos Project (version 1.0)
 
-JavaScript project for Intro to Web Development course.
+JavaScript project for the Frontend Masters course [Intro to Web Development](https://bthold.github.io/intro-to-web-dev-v2/).
 
 - It will show a random dog picture each time a button is clicked.
 - It shows how an AJAX request is made to a public API/server called dog.ceo.

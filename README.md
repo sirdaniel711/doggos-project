@@ -9,6 +9,12 @@ JavaScript project for the Frontend Masters course [Intro to Web Development](ht
 **[Try it here](http://sirdaniel711.github.io/doggos-project/)**
 
 ## To-Do List:
-- Add an option to allow the user to select a specific dog breed
+- Add a sub-breed option to allow the user to select a specific sub-breed
 - Add some styling to the webpage using CSS
 - Add a loading gif that shows when loading a new doggo
+
+## Updates:
+- Version 1.1
+    * Added an option to allow the user to select a specific dog breed
+- Version 1.0
+    * Initial version

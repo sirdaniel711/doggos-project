@@ -1,3 +1,10 @@
 * {
     box-sizing: border-box;
 }
+
+.main-header {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+

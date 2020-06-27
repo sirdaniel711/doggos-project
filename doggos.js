@@ -1,4 +1,4 @@
-// JavaScript Doggos Project version 1.1
+// JavaScript Doggos Project version 1.2
 // By: sirdaniel711
 // Linked files: index.html
 //

@@ -1,4 +1,4 @@
-// JavaScript Doggos Project version 1.1
+// JavaScript Doggos Project version 1.2
 // By: sirdaniel711
 // Linked files: index.html
 //
@@ -51,10 +51,9 @@ function addNewDoggo() {
             return processingPromise;
         })
         .then(function(processedResponse) {
-            const img = document.createElement("img");
+            const img = document.querySelector(".dog");
             img.src = processedResponse.message;
             img.alt = "Cute doggo";
-            doggos.appendChild(img);
         });
 }
 

@@ -51,10 +51,9 @@ function addNewDoggo() {
             return processingPromise;
         })
         .then(function(processedResponse) {
-            const img = document.createElement("img");
+            const img = document.querySelector(".dog");
             img.src = processedResponse.message;
             img.alt = "Cute doggo";
-            doggos.appendChild(img);
         });
 }
 
